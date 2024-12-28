@@ -1,1 +1,1 @@
-"print('������� ⥮६� ��ଠ') # Placeholder for actual proof" 
+print('Великая теорема Ферма') # Placeholder for actual proof
