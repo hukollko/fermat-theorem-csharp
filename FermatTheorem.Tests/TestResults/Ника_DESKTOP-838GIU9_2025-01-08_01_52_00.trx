@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="5a52a930-6e6f-4c88-afc3-ab14ba0f6c47" name="Ника@DESKTOP-838GIU9 2025-01-08 01:52:00" runUser="DESKTOP-838GIU9\Ника" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-01-08T01:52:00.4226086+03:00" queuing="2025-01-08T01:52:00.4226088+03:00" start="2025-01-08T01:51:56.3380824+03:00" finish="2025-01-08T01:52:00.4373931+03:00" />
+  <TestSettings name="default" id="af6c0e56-fa79-421d-82f0-bd279f8d3118">
+    <Deployment runDeploymentRoot="Ника_DESKTOP-838GIU9_2025-01-08_01_52_00" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="47f724cc-7d22-412d-a839-5a8f1e88a16c" testId="28cb9507-f07c-4baf-1f21-129c1c66e70f" testName="FermatTheorem.Tests.FermatTests.TestMultiplication" computerName="DESKTOP-838GIU9" duration="00:00:00.0003161" startTime="2025-01-08T01:52:00.2737894+03:00" endTime="2025-01-08T01:52:00.2737896+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="47f724cc-7d22-412d-a839-5a8f1e88a16c" />
+    <UnitTestResult executionId="05e11a4a-ac5c-4c99-9921-bfd11f748637" testId="f85c18b5-bc43-9b8a-d172-c209be149990" testName="FermatTheorem.Tests.FermatTests.TestAddition" computerName="DESKTOP-838GIU9" duration="00:00:00.5179153" startTime="2025-01-08T01:52:00.2672532+03:00" endTime="2025-01-08T01:52:00.2673190+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05e11a4a-ac5c-4c99-9921-bfd11f748637" />
+    <UnitTestResult executionId="ba55bc03-c399-461c-9879-e9f207a07553" testId="12130ab5-a290-8bc1-02fd-743717bec246" testName="FermatTheorem.Tests.FermatTests.TestSubtraction" computerName="DESKTOP-838GIU9" duration="00:00:00.0001243" startTime="2025-01-08T01:52:00.2747023+03:00" endTime="2025-01-08T01:52:00.2747024+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba55bc03-c399-461c-9879-e9f207a07553" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="FermatTheorem.Tests.FermatTests.TestSubtraction" storage="c:\users\ника\documents\github\fermat-theorem-csharp\fermattheorem.tests\bin\debug\net8.0\fermattheorem.tests.dll" id="12130ab5-a290-8bc1-02fd-743717bec246">
+      <Execution id="ba55bc03-c399-461c-9879-e9f207a07553" />
+      <TestMethod codeBase="C:\Users\Ника\Documents\GitHub\fermat-theorem-csharp\FermatTheorem.Tests\bin\Debug\net8.0\FermatTheorem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="FermatTheorem.Tests.FermatTests" name="TestSubtraction" />
+    </UnitTest>
+    <UnitTest name="FermatTheorem.Tests.FermatTests.TestAddition" storage="c:\users\ника\documents\github\fermat-theorem-csharp\fermattheorem.tests\bin\debug\net8.0\fermattheorem.tests.dll" id="f85c18b5-bc43-9b8a-d172-c209be149990">
+      <Execution id="05e11a4a-ac5c-4c99-9921-bfd11f748637" />
+      <TestMethod codeBase="C:\Users\Ника\Documents\GitHub\fermat-theorem-csharp\FermatTheorem.Tests\bin\Debug\net8.0\FermatTheorem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="FermatTheorem.Tests.FermatTests" name="TestAddition" />
+    </UnitTest>
+    <UnitTest name="FermatTheorem.Tests.FermatTests.TestMultiplication" storage="c:\users\ника\documents\github\fermat-theorem-csharp\fermattheorem.tests\bin\debug\net8.0\fermattheorem.tests.dll" id="28cb9507-f07c-4baf-1f21-129c1c66e70f">
+      <Execution id="47f724cc-7d22-412d-a839-5a8f1e88a16c" />
+      <TestMethod codeBase="C:\Users\Ника\Documents\GitHub\fermat-theorem-csharp\FermatTheorem.Tests\bin\Debug\net8.0\FermatTheorem.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="FermatTheorem.Tests.FermatTests" name="TestMultiplication" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="28cb9507-f07c-4baf-1f21-129c1c66e70f" executionId="47f724cc-7d22-412d-a839-5a8f1e88a16c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f85c18b5-bc43-9b8a-d172-c209be149990" executionId="05e11a4a-ac5c-4c99-9921-bfd11f748637" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12130ab5-a290-8bc1-02fd-743717bec246" executionId="ba55bc03-c399-461c-9879-e9f207a07553" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 8.0.8)&#xD;
+[xUnit.net 00:00:01.34]   Discovering: FermatTheorem.Tests&#xD;
+[xUnit.net 00:00:01.40]   Discovered:  FermatTheorem.Tests&#xD;
+[xUnit.net 00:00:01.41]   Starting:    FermatTheorem.Tests&#xD;
+[xUnit.net 00:00:02.01]   Finished:    FermatTheorem.Tests&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
