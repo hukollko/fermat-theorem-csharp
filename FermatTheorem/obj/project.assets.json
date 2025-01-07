@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ника\\Documents\\TeamCity\\fermat-theorem-csharp\\FermatTheorem\\FermatTheorem.csproj",
+      "projectUniqueName": "C:\\Users\\Ника\\Documents\\GitHub\\fermat-theorem-csharp\\FermatTheorem\\FermatTheorem.csproj",
       "projectName": "FermatTheorem",
-      "projectPath": "C:\\Users\\Ника\\Documents\\TeamCity\\fermat-theorem-csharp\\FermatTheorem\\FermatTheorem.csproj",
+      "projectPath": "C:\\Users\\Ника\\Documents\\GitHub\\fermat-theorem-csharp\\FermatTheorem\\FermatTheorem.csproj",
       "packagesPath": "C:\\Users\\Ника\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ника\\Documents\\TeamCity\\fermat-theorem-csharp\\FermatTheorem\\obj\\",
+      "outputPath": "C:\\Users\\Ника\\Documents\\GitHub\\fermat-theorem-csharp\\FermatTheorem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
