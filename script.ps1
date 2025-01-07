@@ -1,0 +1,5 @@
+Write-Output "How to open a can of corn:"
+Write-Output "1. Make sure that the jar is on a stable surface. "
+Write-Output "2. Take the bottle opener. "
+Write-Output "3. Attach the jar to the opener. "
+Write-Output"4. Turn the bottle opener gently until the lid comes off."
